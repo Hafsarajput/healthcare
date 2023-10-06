@@ -1,0 +1,28 @@
+/* Header Section with background image */
+header.jumbotron {
+    background-image: url('./assets/imgs/istockphoto-1446229465-170667a.webp'); /* Replace 'header-background.jpg' with the actual path to your image */
+    background-size:cover;
+    background-position : center ;
+    color: #fff; /* Set text color to white or a color that stands out against the background */
+}
+/* Card Body with background image */
+.card-body {
+    background-image: url('./assets/imgs/images.jfif'); /* Replace 'card-background.jpg' with the actual path to your image */
+    background-size: cover;
+    background-position: center;
+    color: #fff; /* Set text color to white or a color that stands out against the background */
+}
+/* Card Body with background image */
+.card-body2 {
+    background-image: url('./assets/imgs/herbs-vegetables-white-background_23-2147828984.avif'); /* Replace 'card-background.jpg' with the actual path to your image */
+    background-size: cover;
+    background-position: center;
+    color: #fff; /* Set text color to white or a color that stands out against the background */
+}
+/* Card Body with background image */
+.card-body3 {
+    background-image: url('./assets/imgs/photo-1620147461831-a97b99ade1d3.jfif'); /* Replace 'card-background.jpg' with the actual path to your image */
+    background-size: cover;
+    background-position: center;
+    color: #fff; /* Set text color to white or a color that stands out against the background */
+}
